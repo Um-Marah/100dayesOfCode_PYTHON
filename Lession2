@@ -1,0 +1,8 @@
+#program to  print your name with message welcome
+"""
+this program allow you to enter your name
+and print the word Welcome in 100 days programming follow
+by your name
+"""
+name = input("What's your name? ")
+print(" Welcome in 100 days of programming in python, name)
